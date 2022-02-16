@@ -1,0 +1,32 @@
+form {
+    width:  500px;
+}
+
+th, td, tr {
+    border: 1px solid white;
+    padding: 10px;
+    margin: 10px;
+}
+th {
+    background: #606060;
+    color: aliceblue;
+}
+td {
+    background: #b5b5b5;
+}
+table {
+    width: auto;
+}
+
+.btn{
+    padding: 5px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+    height: auto;
+
+}
+input{
+    margin-bottom: 3px;
+    font-size: smaller;
+
+}
